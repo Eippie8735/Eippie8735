@@ -1,4 +1,7 @@
-### Hi there 👋
+
+img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eippie8735&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Eippie8735&show_icons=true">
+
 
 <!--
 **Eippie8735/Eippie8735** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
