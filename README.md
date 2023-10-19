@@ -1,7 +1,7 @@
 ### Hi! I'm Eippie
 
 
-###✨What i'm Learning✨
+
 <!-- ( 로고 모음 )
   1. 스프링
   2. 스프링 부트
@@ -9,6 +9,7 @@
 -->
 
 <!--
+✨What i'm Learning✨
 <img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/springboot-#6DB33F?style=flat&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/gradle-#02303A?style=flat&logo=gradle&logoColor=white"/>
